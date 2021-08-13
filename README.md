@@ -2,7 +2,7 @@
 O git tem dezenas de comandos que podem ser utilizados para o trabalho. No entanto, existem algumas funções que serão mais utilizadas que outras. Por isso, é importante saber algumas delas de cabeça, para sempre ter na "ponta dos dedos"
 
 
-Alguns desses comadnos são:
+Alguns desses comandos são:
 
 Git Init
 Git Clone
